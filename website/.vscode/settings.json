@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/8d6aa820-ca12-4810-a109-fcf46831df51/resourceGroups/rights_group/providers/Microsoft.Web/sites/rightstosecure",
-    "appService.deploySubpath": "Rn-Backend"
-}
